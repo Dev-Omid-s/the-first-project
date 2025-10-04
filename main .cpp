@@ -3,9 +3,9 @@
 
 int main () {
 
-    std::cout << " hi , Please enter your Name : " ;
-    std::string Name ;
-    std::cin >> Name ;
+    std::cout << " hi , Please Enter your First name : " ;
+    std::string  fName ;
+    std::cin >> fName ;
 
     return 0 ; 
 }
