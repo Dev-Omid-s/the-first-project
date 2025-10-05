@@ -7,5 +7,9 @@ int main () {
     std::string  fName ;
     std::cin >> fName ;
 
+    std::cout << " Welcome to Programing Environment \"" << fName << "\" . Please Enter your Last Name : " << std::endl ;
+    std::string lName ;
+    std::cin >> lName ;
+
     return 0 ; 
 }
