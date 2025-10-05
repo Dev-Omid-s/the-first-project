@@ -11,5 +11,10 @@ int main () {
     std::string lName ;
     std::cin >> lName ;
 
+    std::cout << " great ! Please Enter your Age : " << std::endl ;
+    int Age ;
+    std::cin >> Age ;
+    
+
     return 0 ; 
 }
